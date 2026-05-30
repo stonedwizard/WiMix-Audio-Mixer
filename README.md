@@ -141,8 +141,6 @@ Edit:
 * [ ] GUI for mapping (drag & drop)
 * [ ] Profiles (gaming / music / streaming)
 * [ ] OLED display support
-* [ ] MIDI support
-* [ ] Plugin system
 * [ ] Volume meters
 * [ ] Auto app detection
 
