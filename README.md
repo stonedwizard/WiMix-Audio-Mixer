@@ -39,12 +39,6 @@ Think of it as:
 
 ## 🎬 Demo
 
-> Add GIF or video here
-> (this is VERY important for first impression)
-
-```
-assets/demo.gif
-```
 
 ---
 
