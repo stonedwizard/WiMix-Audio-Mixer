@@ -37,7 +37,6 @@ Think of it as:
 
 ---
 
-## 🎬 Demo
 
 
 ---
@@ -156,7 +155,3 @@ Contributions are welcome.
 If you have ideas, open an issue or submit a pull request.
 
 ---
-
-## 📄 License
-
-MIT License
